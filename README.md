@@ -115,7 +115,7 @@ make
 
 ## License
 
-This project is licensed under the MIT License — feel free to modify and use it.
+This project is licensed under the MIT [License](/License)
 
 ## Contributions
 Pull requests are welcome! If you have improvements for:
