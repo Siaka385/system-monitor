@@ -101,7 +101,7 @@ make
 
 ### 3. Run the application
 ```bash
-./system-monitor
+./monitor
 ````
 
 ⚙️ How It Works
@@ -114,7 +114,7 @@ make
 
 
 ## License
-
+gu
 This project is licensed under the MIT [License](/License)
 
 ## Contributions
